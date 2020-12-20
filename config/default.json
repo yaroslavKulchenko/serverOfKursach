@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "Lalka Palka Kidalka"
+    "mongoUri": "mongodb+srv://yarik:123123123@cluster0.or1x6.mongodb.net/musicStore?retryWrites=true&w=majority"
+}
